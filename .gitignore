@@ -1,13 +1,1 @@
-1       auth:{
-            user: "javierquisbert37@gmail.com",
-            pass: "jyqtmzjtxrokrvlx",
-        },
-
-2           POST 
-           http://localhost:3000/mail
-
-RESULTADO
-{
-    "success": true,
-    "message": "email sending"
-}
+main.js
